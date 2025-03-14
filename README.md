@@ -4,7 +4,7 @@
 - 🤖 **AI/ML Engineer & Python Developer** at **MachaDev Engineering Pvt Ltd**
 - 📊 **Junior Data Scientist** at **Embedra Space Pvt Ltd**
 - 🖥️ **Full-Stack Python Developer** (Freelance Solutions)
-- 🚀 Currently working on **AI, NLP, LLMs, and Autonomous Systems**
+- 🚀 Currently working on **AI, NLP, LLMs, Deep Learning, and Generative AI**
 - 📡 Exploring **Cloud Computing, Embedded Systems, and AI-powered Applications**
 - 💡 Looking to collaborate on **AI research, deep learning projects, and open-source contributions**
 - 💬 Ask me about **AI, Machine Learning, and Software Development**
