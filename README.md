@@ -68,25 +68,7 @@
 
 ---
 
-<h3>🚀 Projects & Innovations</h3>
-
-- **Self-Driving Car System** – AI-powered autonomous navigation system  
-- **Nexora** – Multimodal AI Model for advanced human-computer interaction  
-- **DeskChatter** – Secure and scalable chat application  
-- **SlicePay** – AI-powered POS system for seamless transactions  
-
----
-
-<h3>🎓 Education & Certifications</h3>
-
-🎓 **Bachelor of Software Engineering** – Riphah International University (CGPA: 3.65/4.00)  
-📜 Certified in **Python for Data Science (IBM), Software Development Processes (Minnesota), Networking Essentials (Cisco)**  
-
----
-
-<h3>💡 Let's Collaborate!</h3>
-
-I am always open to exciting AI and software development projects, research opportunities, and collaborations. Let’s innovate together! 🚀
+<h3><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardarmohsinsaghir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/></h3>
 
 ---
 
