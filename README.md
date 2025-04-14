@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohsin Saghir</h1>
-<h3 align="center">A passionate Software Engineer specializing in AI/ML and Full-Stack Development</h3>
+<h3 align="center">AI/ML Software Engineer</h3>
 
 - 🤖 **AI/ML Engineer & Python Developer** at **MachaDev Engineering Pvt Ltd**
 - 📊 **Junior Data Scientist** at **Embedra Space Pvt Ltd**
 - 🖥️ **Full-Stack Python Developer** (Freelance Solutions)
-- 🚀 Currently working on **AI, NLP, LLMs, Deep Learning, and Generative AI**
-- 📡 Exploring **Cloud Computing, Embedded Systems, and AI-powered Applications**
-- 💡 Looking to collaborate on **AI research, deep learning projects, and open-source contributions**
+- 📊 **Skilled in Large Language Models (LLMs), Natural Language Processing (NLP), Generative AI and Model Optimization**.
+- 💡 **Passionate about bridging cutting-edge AI research with real-world applications, with a focus on innovation and continuous learning**.
 - 💬 Ask me about **AI, Machine Learning, and Software Development**
 - 📫 Reach me at: **[Linkedin](https://www.linkedin.com/in/sardarmohsinsaghir/)**
 
