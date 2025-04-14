@@ -44,9 +44,24 @@
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%231E90FF.svg?style=for-the-badge&logoColor=white"/>
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-%2300B8D9.svg?style=for-the-badge&logo=nltk&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-%2300C4B6.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="PyQT" src="https://img.shields.io/badge/PyQT-%2300C4B6.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Predictive Modeling" src="https://img.shields.io/badge/Predictive%20Modeling-%23F7C90A.svg?style=for-the-badge&logoColor=black"/>
+  <img alt="LLM Fine-Tuning" src="https://img.shields.io/badge/LLM%20Fine%20Tuning-%23009CFF.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-%2300B8D9.svg?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img alt="CNN" src="https://img.shields.io/badge/CNN-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="RNN" src="https://img.shields.io/badge/RNN-%23EE4C2C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Q-Learning" src="https://img.shields.io/badge/Q--Learning-%2300C4B6.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23ff4b5c.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="LSTM" src="https://img.shields.io/badge/LSTM-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-%23F7931E.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-%23009CFF.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="RLHF" src="https://img.shields.io/badge/RLHF-%23EE4C2C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="SVM" src="https://img.shields.io/badge/SVM-%23F7C90A.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="GAN" src="https://img.shields.io/badge/GAN-%23F7931E.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -64,6 +79,7 @@
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
 </div>
+
 
 ---
 
