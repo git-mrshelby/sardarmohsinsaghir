@@ -27,16 +27,26 @@
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%232E5B94.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-%230769C7.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img alt="XML" src="https://img.shields.io/badge/XML-%23FF4F00.svg?style=for-the-badge&logo=xml&logoColor=white"/>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-%2300B8D9.svg?style=for-the-badge&logo=nltk&logoColor=white"/>
+  <img alt="LLM" src="https://img.shields.io/badge/LLM-%2300C4B6.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Software Quality Engineering" src="https://img.shields.io/badge/Software%20Quality%20Engineering-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Software Quality Assurance" src="https://img.shields.io/badge/Software%20Quality%20Assurance-%23009CFF.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Software Re-Engineering" src="https://img.shields.io/badge/Software%20Re%2DEngineering-%23323232.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img alt="Shell Scripting" src="https://img.shields.io/badge/Shell_Scripting-%23323232.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div>
 
----
 
 <h3>⚙️ Frameworks, Libraries & Tools</h3>
 
