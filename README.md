@@ -2,8 +2,7 @@
 <h3 align="center">AI/ML Software Engineer</h3>
 
 - 🤖 **AI/ML Engineer & Python Developer** at **MachaDev Engineering Pvt Ltd**
-- 📊 **Junior Data Scientist** at **Embedra Space Pvt Ltd**
-- 🖥️ **Full-Stack Python Developer** (Freelance Solutions)
+- 📊 **Data Analytics Intern at College of Electrical & Mechanical Engineering (NUST)
 - 📊 **Skilled in Large Language Models (LLMs), Natural Language Processing (NLP), Generative AI and Model Optimization**.
 - 💡 **Passionate about bridging cutting-edge AI research with real-world applications, with a focus on innovation and continuous learning**.
 - 💬 Ask me about **AI, Machine Learning, and Software Development**
