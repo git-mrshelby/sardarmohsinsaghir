@@ -7,7 +7,7 @@
   </a>
 </div>
 
-- 📊 **Data Analytics Intern at College of Electrical & Mechanical Engineering **
+- 📊 **Data Analytics Intern at College of Electrical & Mechanical Engineering**
 - 🤖 **Data Science Intern at Embedra Space Pvt Ltd**
 - 🧠 **AI/ML Engineer & Python Developer** at **MachaDev Engineering Pvt Ltd**
 - 🌐 Data Analytics Intern — Accenture North America (Forage)
