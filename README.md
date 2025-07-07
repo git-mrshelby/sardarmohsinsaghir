@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Software Engineer</h3>
 
 <div align="center" style="margin-top: 10px;">
-  <a href="www.sardarmohsinsaghir.site" target="_blank">
+  <a href="sardarmohsinsaghir.site" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
