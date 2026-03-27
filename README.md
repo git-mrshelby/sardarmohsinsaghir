@@ -1,20 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohsin Saghir</h1>
 <h3 align="center">AI/ML Software Engineer</h3>
 
-<div align="center" style="margin-top: 10px;">
-  <a href="https://sardarmohsinsaghir.site" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
-</div>
 
-- 📊 **Data Analytics Intern at College of Electrical & Mechanical Engineering**
-- 🤖 **Data Science Intern at Embedra Space Pvt Ltd**
-- 🧠 **AI/ML Engineer & Python Developer** at **MachaDev Engineering Pvt Ltd**
-- 🌐 Data Analytics Intern at Accenture North America (Forage)
+
 - 🔍 **Skilled in Large Language Models (LLMs), Natural Language Processing (NLP), Generative AI and Model Optimization**.
 - 💡 **Passionate about bridging cutting-edge AI research with real-world applications, with a focus on innovation and continuous learning**.
 - 💬 Ask me about **AI, Machine Learning, and Software Development**
-- 📫 Reach me at: **[Linkedin](https://www.linkedin.com/in/sardarmohsinsaghir/)**
 
 ---
 
