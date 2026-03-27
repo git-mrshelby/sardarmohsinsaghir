@@ -12,7 +12,6 @@
 <!-- Social Media Links -->
 <div align="center">
 <h3 align="center">Connect with me</h3>
-<a href="https://linkedin.com/in/sardarmohsinsaghir"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://github.com/sardarmohsinsaghir"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 </div>
 
