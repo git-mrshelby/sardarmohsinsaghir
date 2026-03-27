@@ -90,10 +90,6 @@
 
 ---
 
-<h3><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardarmohsinsaghir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/></h3>
-
----
-
 <h3>🏆 Contributions</h3>
 
 <p align="center">
